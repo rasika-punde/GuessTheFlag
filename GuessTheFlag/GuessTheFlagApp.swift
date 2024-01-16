@@ -2,7 +2,7 @@
 //  GuessTheFlagApp.swift
 //  GuessTheFlag
 //
-//  Created by Pratik Mistry on 1/8/24.
+//  Created by Rasika Punde on 1/8/24.
 //
 
 import SwiftUI
